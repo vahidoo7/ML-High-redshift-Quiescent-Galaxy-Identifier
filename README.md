@@ -33,3 +33,4 @@ This repository contains:
 ### 4. Pre-processing
 - **File**: Preprocessing.ipynb
 - **Needed Libraries**: Pandas, NumPy, Sklearn and missforest
+- **Needed Data**: COSMOS2025_with_missing_values.csv  &  SAM_Mags.csv
