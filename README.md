@@ -8,7 +8,7 @@ This repository contains:
 📜 **Documentation** for reproducibility.  
 
 *Developed for the study:*  
-*"Unveiling the High-Redshift Quiescent Population: A Machine Learning Census of Massive Galaxies at 2.5 < z < 5 in COSMOS2025"* 
+*"COSMOS2025: A Machine Learning Census of Massive Quiescent Galaxies at 2.5 < z < 5"* 
 
 ---
 
