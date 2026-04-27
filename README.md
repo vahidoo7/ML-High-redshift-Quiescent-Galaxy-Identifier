@@ -29,3 +29,7 @@ This repository contains:
 ### 3. Usage (Reproduce results)
 - **File**: Quiescent_Galaxy_Classifier_Usage_Example.ipynb
 - **Needed Libraries**: Pandas and joblib
+
+  ### 4. Pre-processing
+- **File**: Preprocessing.ipynb
+- **Needed Libraries**: Pandas, NumPy, Sklearn and missforest
